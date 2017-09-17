@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ORMLiteDemo</string>
+    <string name="add_information">Add Information</string>
+    <string name="update_button">Update Information</string>
+    <string name="show_information">Display All Information</string>
+    <string name="add_information_hint">Add Information</string>
+    <string name="enter_your_email">Enter your Email</string>
+    <string name="enter_your_name">Enter your Name</string>
+    <string name="update_record">Update Record</string>
+</resources>
